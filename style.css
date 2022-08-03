@@ -2,9 +2,3 @@
     -webkit-box-shadow: 1px 0px 17px 9px #000000; 
 box-shadow: 1px 0px 17px 9px #000000;
 }
-
-.sidebar {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-  }
